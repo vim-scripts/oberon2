@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2105
+
+Syntax file for Oberon-2.
+It was derived from syntax file for Modula-2 by Peter Funk.
+The main idea was to let type Oberon-2 keywords in lower case, using abbr to capitalize them.
